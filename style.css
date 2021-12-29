@@ -1,0 +1,27 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css?family=Orbitron');
+body {
+    background-color:  #f3f3f3 
+}
+
+.container {
+    font-family: "Roboto Mono", sans-serif;
+    text-align: center;
+    margin: 50px auto;
+}
+
+h1 {
+    font-size: 32px;
+}
+
+h2 {
+    font-size: 12px;
+}
+
+.hours {
+    font-family: 'Orbitron', sans-serif;
+    display: inline;
+    text-align: center;
+    font-size: 58px;
+    color: #ff324a;
+}
